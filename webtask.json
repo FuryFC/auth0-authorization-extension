@@ -2,7 +2,7 @@
   "title": "Auth0 Authorization Test",
   "name": "auth0-authz-test",
   "version": "2.3.0",
-  "author": "auth0",
+  "author": "auth0-2",
   "description": "This extension gives Auth0 customers the possibility to manage group memberships for their users.",
   "type": "application",
   "logoUrl": "https://cdn.auth0.com/extensions/auth0-authz/assets/logo.svg",
